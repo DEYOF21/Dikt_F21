@@ -1,2 +1,4 @@
 Stein er en utvikler.
 Haidar er en lærer.
+Drift og brukerstøtte er gøy.
+Utvikling er mindre gøy.
